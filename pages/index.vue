@@ -1,5 +1,6 @@
 <template>
   <v-container fill-height>
+    <p>ทดสอบ</p>
     <v-layout justify-center align-center>
       <v-flex shrink>
         <v-btn icon color="test" large >
